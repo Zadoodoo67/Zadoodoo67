@@ -1,4 +1,4 @@
-<p align="center">$\color{#f0fff0}{"If‎ looks‎ could‎ kill‎ you'd‎ be‎ a‎ murderer,‎ maybe‎ just‎ a‎ whore."}$</p>
+<p align="center">$\color{#f0fff0}{"I’ve‎ been‎ alone,‎ that‎ way‎ nobody‎ can‎ hurt‎ me‎}$ <br> $\color{#f0fff0}{I’m‎ perfectly‎ imperfect,‎ so‎ why‎ can’t‎ you‎ just‎ love‎ me?"}$</p>
 
 <p align="center">‎<img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled49_20260328121340__fliter--x-rays__channel--red__mode--normal.png" style="width:35px;height:35%;">· · ──────────────────────────── ·<img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled49_20260328121340__fliter--x-rays__channel--red__mode--normal.png" style="width:35px;height:35%;">· ──────────────────────────── · ·<img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled49_20260328121340__fliter--x-rays__channel--red__mode--normal.png" style="width:35px;height:35%;"></p>
 
