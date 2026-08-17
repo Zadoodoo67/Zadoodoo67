@@ -16,6 +16,6 @@
   </p>
 </details>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=riywsr4uva0kx26t3k2d658q6&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=3b316d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=riywsr4uva0kx26t3k2d658q6&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=2f265f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center">‎<img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled49_20260328121340__fliter--x-rays__channel--red__mode--normal.png" style="width:35px;height:35%;">· · ──────────────────────────── ·<img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled49_20260328121340__fliter--x-rays__channel--red__mode--normal.png" style="width:35px;height:35%;">· ──────────────────────────── · ·<img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled49_20260328121340__fliter--x-rays__channel--red__mode--normal.png" style="width:35px;height:35%;"></p>
