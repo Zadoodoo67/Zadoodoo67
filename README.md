@@ -1,4 +1,4 @@
-<p align="center">$\color{#f0fff0}{"I’ve‎ been‎ alone,‎ that‎ way‎ nobody‎ can‎ hurt‎ me‎}$ <br> $\color{#f0fff0}{I’m‎ perfectly‎ imperfect,‎ so‎ why‎ can’t‎ you‎ just‎ love‎ me?"}$</p>
+<p align="center">$\color{#E2E1F3}{"I’ve‎ been‎ alone,‎ that‎ way‎ nobody‎ can‎ hurt‎ me‎}$ <br> $\color{#E2E1F3}{I’m‎ perfectly‎ imperfect,‎ so‎ why‎ can’t‎ you‎ just‎ love‎ me?"}$</p>
 
 <p align="center">‎<img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled49_20260501195608__fliter--blackCurrant-and-mint__channel--red__mode--normal.png" style="width:35px;height:35%;">· · ──────────────────────────── ·<img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled49_20260501195608__fliter--blackCurrant-and-mint__channel--red__mode--normal.png" style="width:35px;height:35%;">· ──────────────────────────── · ·<img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled49_20260501195608__fliter--blackCurrant-and-mint__channel--red__mode--normal.png" style="width:35px;height:35%;"></p>
 
@@ -8,11 +8,11 @@
 
 <div align="center" dir="auto">
 <details closed="">
-  <summary>$\color{#f0fff0}{My‎ links!}$</summary>
+  <summary>$\color{#E2E1F3}{My‎ links!}$</summary>
   <p align="center">
-     <img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled65_20260501201307__fliter--blackCurrant-and-mint__channel--red__mode--normal.png" style="width:35px;height:35%;"><a href="https://down-under.straw.page">Straw.page<img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled65_20260501201307__fliter--blackCurrant-and-mint__channel--red__mode--normal.png" style="width:35px;height:35%;"></a> ♡
-      <img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled49_20260327163418.png" style="width:35px;height:35%;"><a href="https://guns.lol/isaacx_">Guns.lol<img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled65_20260501201307__fliter--blackCurrant-and-mint__channel--red__mode--normal.png" style="width:35px;height:35%;"></a> ♡
-    <img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled49_20260327163418.png" style="width:35px;height:35%;"><a href="https://down-under-arc.carrd.co">Carrd<img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled65_20260501201307__fliter--blackCurrant-and-mint__channel--red__mode--normal.png" style="width:35px;height:35%;"></a>
+     <img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled85_20260824141716.png" style="width:35px;height:35%;"><a href="https://down-under.straw.page">Straw.page<img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled65_20260501201307__fliter--blackCurrant-and-mint__channel--red__mode--normal.png" style="width:35px;height:35%;"></a> ♡
+      <img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled85_20260824141716.png" style="width:35px;height:35%;"><a href="https://guns.lol/isaacx_">Guns.lol<img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled65_20260501201307__fliter--blackCurrant-and-mint__channel--red__mode--normal.png" style="width:35px;height:35%;"></a> ♡
+    <img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled85_20260824141716.png" style="width:35px;height:35%;"><a href="https://down-under-arc.carrd.co">Carrd<img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled65_20260501201307__fliter--blackCurrant-and-mint__channel--red__mode--normal.png" style="width:35px;height:35%;"></a>
   </p>
 </details>
 
