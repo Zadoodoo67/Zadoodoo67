@@ -3,7 +3,7 @@
 <p align="center">‎<img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled49_20260501195608__fliter--blackCurrant-and-mint__channel--red__mode--normal.png" style="width:35px;height:35%;">· · ──────────────────────────── ·<img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled49_20260501195608__fliter--blackCurrant-and-mint__channel--red__mode--normal.png" style="width:35px;height:35%;">· ──────────────────────────── · ·<img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled49_20260501195608__fliter--blackCurrant-and-mint__channel--red__mode--normal.png" style="width:35px;height:35%;"></p>
 
 <p align="center">
-<img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled31_20260824142103.png" width="" height="" border="10"/>
+<img src="https://github.com/Zadoodoo67/Zadoodoo67/blob/main/Untitled31_20260824143022.png" width="" height="" border="10"/>
 </p>
 
 <div align="center" dir="auto">
